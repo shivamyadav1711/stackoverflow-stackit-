@@ -1,0 +1,6 @@
+export const db = "69fde844000392af2093"
+export const questionCollection = "questions"
+export const answerCollection = "answers"
+export const commentCollection = "comments"
+export const voteCollection = "votes"
+export const questionAttachmentBucket = "question-attachment"
